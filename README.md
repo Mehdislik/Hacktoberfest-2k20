@@ -4,7 +4,7 @@
 ![Micro Club does Hacktoberfest](https://www.pixenli.com/image/i4ptvTUk)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-
+[![Hacktoberfest-2k20](https://circleci.com/gh/MicroClub-USTHB/circleci-docs.svg?style=svg)](https://github.com/MicroClub-USTHB/Hacktoberfest-2k20)
 **Other README langages:** [🇫🇷](translations/README_Fr.md)
 
 ### TL;DR: Register to the Hacktoberfest challenge, make 4 vaild Pull requests (PRs) on public repos on GitHub during the month of October and win a Limited Edition T-Shirt or have a Tree planted!
